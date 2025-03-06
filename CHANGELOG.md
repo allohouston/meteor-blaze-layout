@@ -1,5 +1,8 @@
 # Change Log
 
+### v2.4.0
+* Add Meteor 3.0 compatibility
+
 ### v2.3.0
 * Use Blaze's DOMBackend API. See: [#38](https://github.com/kadirahq/blaze-layout/pull/38)
 * Display an error when there is no template. See: [#48](https://github.com/kadirahq/blaze-layout/pull/49)
