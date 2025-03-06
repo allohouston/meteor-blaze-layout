@@ -1,6 +1,6 @@
-# BlazeLayout (kadira:blaze-layout) [![Build Status](https://travis-ci.org/kadirahq/blaze-layout.svg?branch=master)](https://travis-ci.org/kadirahq/blaze-layout)
+# BlazeLayout (supra:blaze-layout)
 
-> This project is earlier known as **meteorhacks:flow-layout**. This is an exact copy of FlowLayout but in a different name.
+> This project is earlier known as **meteorhacks:flow-layout** then **kadirahq/blaze-layout**. This is an exact copy of Blaze-Layout.
 
 ### Blaze Layout Manager for Meteor
 
