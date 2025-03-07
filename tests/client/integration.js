@@ -1,4 +1,6 @@
-Tinytest.addAsync("Integration - render to the dom", function(test, done) {
+import { $ } from "meteor/jquery";
+
+Tinytest.addAsync("Integration - render to the dom", function (test, done) {
   BlazeLayout.reset();
   BlazeLayout.render('layout1', {aa: 200});
   Tracker.afterFlush(function() {

@@ -2,7 +2,7 @@ Package.describe({
   summary: 'Layout Manager for Blaze (works well with FlowRouter)',
   version: '2.4.0',
   git: 'https://github.com/allohouston/meteor-blaze-layout',
-  name: "supra:blaze-layout"
+  name: "suprakit:blaze-layout"
 });
 
 Package.onUse(function (api) {
@@ -25,7 +25,7 @@ function configure(api) {
   api.use('templating');
   api.use('reactive-dict');
   api.use('underscore');
-  api.use('jquery');
+  api.use('jquery@3.0.0');
   api.use('tracker');
 
   api.addFiles('lib/client/namespace.js', 'client');
